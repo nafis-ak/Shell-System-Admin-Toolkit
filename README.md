@@ -1,4 +1,4 @@
-# Shell-Based System Administration Toolkit
+# Shell-Based System Administration Toolkit (Bash CLI Project)
 
 A Linux-based automation toolkit developed using Bash scripting for the Operating Systems Laboratory course.
 
@@ -48,10 +48,25 @@ This project automates common system administration tasks such as user monitorin
 
 ## How to Run
 
-```bash
-chmod +x main.sh
-./main.sh
-```
+1. Clone the repository:
+   git clone https://github.com/nafis-ak/Shell-System-Admin-Toolkit.git
+
+2. Navigate to project folder:
+   cd Shell-System-Admin-Toolkit
+
+3. Give permission:
+   chmod +x main.sh
+
+4. Run the program:
+   ./main.sh
+
+---
+
+## Default Login Credentials
+(Add here 👇)
+
+Username: admin  
+Password: 12345
 
 ---
 
