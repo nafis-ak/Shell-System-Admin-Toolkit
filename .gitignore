@@ -1,0 +1,5 @@
+backup/
+logs/
+*.log
+*.gz
+README.md.save
